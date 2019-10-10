@@ -1,5 +1,5 @@
 jupyterlab==1.1.1
-numpy=1.71.1
+numpy==1.17.1
 pandas==0.25.1
 scipy==1.3.1
 matplotlib==2.2.4
