@@ -1,0 +1,5 @@
+Libreria para el procesamiento de Imagenes:
+* PIL
+* SimpleITK
+* OpenCV
+* Scikit-Image
